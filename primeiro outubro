@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula octuber first</title>
+    
+    <h3>Listas</h3>
+    <p>Vamos listar o que faremos nas férias. Segue as opções:</p>
+    <ul id="generos">
+        <li>Assistir filmes</li>
+        <li>Passear</li>
+        <li>Jogar video games</li>
+        <li>Apender coisas novas</li>
+    </ul>
+    <p>Vamos listar os filmes para assistir nas férias. Segue as opções:</p>
+    <ul id="generos">
+        <li>Romance</li>
+        <li>Ação</li>
+        <li>Comédia</li>
+        <li>Terror</li>
+        <li>Suspense</li>
+        <li>Ficção Cientifica</li>
+        <li>Aventura</li>
+    </ul>
+        <p>Vamos listar os lanches. Segue as opções:</p>
+    <ol id="comida">
+        <li>Doces</li>
+        <li value="5">Salgados</li>
+        <li>Gelatos</li>
+        <li>Petiscos</li>
+    </ol>
+
+    <p> Agora vamos pensar em coisas novas para fazer:</p>
+    <ul>
+        <ol type="I" reversed>
+        <li>Receitas novas</li>
+        <li>Cursinhos</li>
+        <li>Costurar</li>
+        <li>Novos idiomas</li>
+        <li>Dançar</li>
+        <li>Jardinsgem</li>
+        </ol>
+    </ul>
+
+</head>
+<body>
+    
+</body>
+</html>
